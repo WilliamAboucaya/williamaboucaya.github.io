@@ -1,0 +1,23 @@
+# Languages
+#   Create a `[X]` block for each language you want, where X is the language ID.
+#   Refer to https://sourcethemes.com/academic/docs/language/
+
+[fr]
+  languageCode = "fr-fr"
+  contentDir = "content/fr"
+  
+  [fr.params]
+    office_hours = """Du lundi au vendredi de 09:00 à 17:30"""
+    contact_links = [
+      # {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
+      # {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},
+      # {icon = "keybase", icon_pack = "fab", name = "Chat on Keybase", link = "https://keybase.io/"},
+      {icon = "github", icon_pack = "fab", name = "Regardez mon travail sur GitHub", link = "https://github.com/WilliamAboucaya"},
+      # {icon = "comments", icon_pack = "fas", name = "Parlez moi par forum", link = "https://discourse.gohugo.io"},
+      # {icon = "telegram", icon_pack = "fab", name = "Telegram Me", link = "https://telegram.me/@Telegram"},
+    ]
+
+[en]
+  languageCode = "en-us"
+  contentDir = "content/en"
+#  title = "Chinese website title..."

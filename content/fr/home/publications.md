@@ -65,4 +65,4 @@ subtitle = "Récupérées depuis [HAL](https://hal.science/search/index/?q=*&aut
  # CSS class.
  css_class = ""
 +++
-<iframe src="https://haltools.archives-ouvertes.fr/Public/afficheRequetePubli.php?idHal=william-aboucaya&CB_auteur=oui&CB_titre=oui&CB_article=oui&CB_typdoc=oui&langue=Francais&tri_exp=typdoc&tri_exp2=annee_publi&tri_exp3=date_publi&ordre_aff=TA&Fen=Aff&css=../css/VisuCondenseSsCadre.css" class="col-12" height=600 frameBorder="0"></iframe>
+<iframe src="https://haltools.archives-ouvertes.fr/Public/afficheRequetePubli.php?idHal=william-aboucaya&CB_auteur=oui&CB_titre=oui&CB_article=oui&langue=Francais&tri_exp=typdoc&tri_exp2=annee_publi&tri_exp3=date_publi&ordre_aff=TA&Fen=Aff&css=../css/VisuCondenseSsCadre.css" class="col-12" height=720 frameBorder="0"></iframe>

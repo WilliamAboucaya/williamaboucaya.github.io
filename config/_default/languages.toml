@@ -7,7 +7,7 @@
   contentDir = "content/fr"
   
   [fr.params]
-    office_hours = """Du lundi au vendredi de 09:00 à 17:30"""
+    office_hours = """Du lundi au vendredi de 09:00 à 18:00"""
     contact_links = [
       # {icon = "twitter", icon_pack = "fab", name = "DM Me", link = "https://twitter.com/Twitter"},
       # {icon = "skype", icon_pack = "fab", name = "Skype Me", link = "skype:echo123?call"},

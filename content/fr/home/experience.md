@@ -20,12 +20,24 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Ingénieur de recherche"
+  company = "Université Paris Sciences et Lettres"
+  company_url = "https://acss-dig.psl.eu/fr"
+  location = "Paris"
+  date_start = "2024-09-16"
+  date_end = ""
+  description = """Ingénieur de recherche dans l'équipe ACSS."""
+
+[[experience]]
+  title = "Ingénieur de recherche"
   company = "INRIA"
   company_url = "https://www.inria.fr/"
   location = "Paris"
   date_start = "2023-12-01"
-  date_end = ""
-  description = """Ingénieur de recherche dans l'équipe MiMove."""
+  date_end = "2024-09-15"
+  description = """Ingénieur de recherche dans l'équipe MiMove.
+
+  Participation à la thèse de Shahin Abdoul Soukour.
+  Implication dans le projet [CP4SC](https://eviden.com/industries/public-sector-and-defense/cloud-platform-for-smart-cities/)."""
 
 [[experience]]
   title = "Doctorant"

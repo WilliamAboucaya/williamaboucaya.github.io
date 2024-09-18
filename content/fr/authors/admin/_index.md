@@ -14,21 +14,20 @@ authors:
 superuser: true
 
 # Role/position
-role: Research engineer
+role: Ingénieur de recherche
 
 # Organizations/Affiliations
 organizations:
-- name: INRIA
-  url: "https://www.inria.fr"
+- name: Université Paris Sciences et Lettres
+  url: "https://dauphine.psl.eu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
 
 interests:
 - Participation citoyenne en ligne
 - TALN
 - TCAO
-- Développement Mobile
 
 display_education: true
 
@@ -51,7 +50,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:william.aboucaya[at]inria.fr'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:william.aboucaya[at]dauphine.psl.eu'  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=ysUTbogAAAAJ
@@ -77,6 +76,6 @@ user_groups:
 - Visitors
 ---
 
-Je suis un ingénieur de recherche du centre parisien de l'[INRIA](https://www.inria.fr/). Je travaille actuellement au sein de l'équipe [MiMove](https://mimove.inria.fr/). J'ai soutenu [une thèse en informatique](https://www.theses.fr/2023SORUS461) auprès de Sorbonne Université. Je travaille principalement sur la participation citoyenne en ligne, le Traîtement Automatique du Langage Naturel, le Travail Collaboratif Assisté par Ordinateur et les Graphes de Connaissance.
+Je suis un ingénieur de recherche de l'Université [Paris Sciences et Lettres](https://dauphine.psl.eu/). Je travaille actuellement au sein de l'institut [ACSS](https://acss-dig.psl.eu/fr). J'ai soutenu [une thèse en informatique](https://www.theses.fr/2023SORUS461) auprès de Sorbonne Université. Je travaille principalement sur la participation citoyenne en ligne, le Traîtement Automatique du Langage Naturel, le Travail Collaboratif Assisté par Ordinateur et les Graphes de Connaissance.
 
 <!-- ![reviews](../../img/certifacates.jpg) -->

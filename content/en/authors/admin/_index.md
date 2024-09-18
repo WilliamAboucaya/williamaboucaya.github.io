@@ -18,11 +18,11 @@ role: Research engineer
 
 # Organizations/Affiliations
 organizations:
-- name: INRIA
-  url: "https://www.inria.fr/en"
+- name: Paris Sciences et Lettres University
+  url: "https://dauphine.psl.eu/en/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: 
 
 interests:
 - Online citizen participation
@@ -50,7 +50,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:william.aboucaya[at]inria.fr'  # For a direct email link, use "mailto:test@example.org".
+  link: 'mailto:william.aboucaya[at]dauphine.psl.eu'  # For a direct email link, use "mailto:test@example.org".
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=ysUTbogAAAAJ
@@ -76,6 +76,6 @@ user_groups:
 - Visitors
 ---
 
-I am a research engineer at the parisian research center of [INRIA](https://www.inria.fr/en). I am currently working with the [MiMove](https://mimove.inria.fr/) team. I hold a [Ph.D. in computer science](https://www.theses.fr/2023SORUS461) from Sorbonne Université. My research topics are online citizen participation, Natural Language Processing, Computer-Supported Cooperative Work, and Knowledge Graphs.
+I am a research engineer at the [Paris Sciences et Lettres](https://dauphine.psl.eu/en/) University. I am currently working with the [ACSS](https://acss-dig.psl.eu/) institute. I hold a [Ph.D. in computer science](https://www.theses.fr/2023SORUS461) from Sorbonne Université. My research topics are online citizen participation, Natural Language Processing, Computer-Supported Cooperative Work, and Knowledge Graphs.
 
 <!-- ![reviews](../../img/certifacates.jpg) -->

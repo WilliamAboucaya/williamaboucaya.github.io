@@ -50,12 +50,12 @@ time_format = "15:04"
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "william.aboucaya[at]inria.fr"
+email = "william.aboucaya[at]dauphine.psl.eu"
 phone = ""
-address = "2 rue Simone Iff, INRIA, Paris, 75012, France"
+address = "Pl. du Maréchal de Lattre de Tassigny, 75016 Paris, France"
 
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
-office_hours = """Monday to Friday 09:00 to 17:30"""
+office_hours = """Monday to Friday 09:00 to 18:00"""
 
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = ""
@@ -88,8 +88,8 @@ contact_links = [
 #   3: OpenStreetMap (Mapbox)
 map = 2
 map_api_key = "AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
-latitude = "48.841624"
-longitude = "2.384480"
+latitude = "48.87022446730741"
+longitude = "2.273699471877961"
 zoom = 18
 
 ############################
